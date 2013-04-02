@@ -1,5 +1,4 @@
 # are you interested?
-# https://github.com/csmpls/are-you-interested
 
 browses reddit with neurosky BCI input
 find "documentation" here https://vimeo.com/60799088 (password is 'taptap')
