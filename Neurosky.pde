@@ -83,8 +83,6 @@ public class Neurosky {
       
       set_attn_pulse();
       set_med_pulse();
-      set_is_meditating(); 
-      set_is_attentive();
        }
       
       catch( ArrayIndexOutOfBoundsException e ) {
